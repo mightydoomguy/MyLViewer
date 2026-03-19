@@ -1,0 +1,14 @@
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-core-viewtree-1.0.0-0 C:\Users\dvbal\.gradle\caches\8.13\transforms\02a5e36c1f80315b77160382396f303c\transformed\core-viewtree-1.0.0\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-core-runtime-2.2.0-1 C:\Users\dvbal\.gradle\caches\8.13\transforms\06e0dbf8d81aa090f3be4e78b76b1ad5\transformed\core-runtime-2.2.0\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-startup-runtime-1.1.1-2 C:\Users\dvbal\.gradle\caches\8.13\transforms\3cf1a6ef20809331e139e6b22caf202e\transformed\startup-runtime-1.1.1\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-tracing-1.2.0-3 C:\Users\dvbal\.gradle\caches\8.13\transforms\981a25353e5cf66ee72fc70e0af83cd5\transformed\tracing-1.2.0\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-profileinstaller-1.3.0-4 C:\Users\dvbal\.gradle\caches\8.13\transforms\ef0334e0984dacd603814f06982b623c\transformed\profileinstaller-1.3.0\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-annotation-experimental-1.4.1-5 C:\Users\dvbal\.gradle\caches\8.13\transforms\f8dab24f68bb80c2f7f603fdc93ea54c\transformed\annotation-experimental-1.4.1\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-core-1.17.0-6 C:\Users\dvbal\.gradle\caches\8.13\transforms\fa50804d693ae608ff34d32bb52e06fb\transformed\core-1.17.0\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-lifecycle-runtime-2.6.2-7 C:\Users\dvbal\.gradle\caches\8.13\transforms\fc2244dee0914b75d9c612287b3b8856\transformed\lifecycle-runtime-2.6.2\res
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-androidTest-8 D:\petprojects\MyLViewer\android-pdf-viewer\build\generated\res\resValues\androidTest\debug
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-updated_navigation_xml-9 D:\petprojects\MyLViewer\android-pdf-viewer\build\generated\updated_navigation_xml\debugAndroidTest
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-mergeDebugAndroidTestResources-10 D:\petprojects\MyLViewer\android-pdf-viewer\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-mergeDebugAndroidTestResources-11 D:\petprojects\MyLViewer\android-pdf-viewer\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-debugAndroidTest-12 D:\petprojects\MyLViewer\android-pdf-viewer\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+com.github.barteksc.pdfviewer.test.android-pdf-viewer-debug-13 D:\petprojects\MyLViewer\android-pdf-viewer\build\intermediates\packaged_res\debug\packageDebugResources
